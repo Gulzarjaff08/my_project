@@ -1,1 +1,1 @@
-# my_project
+# news streaming web app
